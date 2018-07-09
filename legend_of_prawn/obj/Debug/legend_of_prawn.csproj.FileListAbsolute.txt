@@ -1,0 +1,6 @@
+D:\Projects\lop\legend_of_prawn\bin\Debug\legend_of_prawn.exe.config
+D:\Projects\lop\legend_of_prawn\bin\Debug\legend_of_prawn.exe
+D:\Projects\lop\legend_of_prawn\bin\Debug\legend_of_prawn.pdb
+D:\Projects\lop\legend_of_prawn\obj\Debug\legend_of_prawn.csprojResolveAssemblyReference.cache
+D:\Projects\lop\legend_of_prawn\obj\Debug\legend_of_prawn.exe
+D:\Projects\lop\legend_of_prawn\obj\Debug\legend_of_prawn.pdb
